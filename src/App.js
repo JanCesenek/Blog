@@ -503,12 +503,7 @@ function App() {
             , kde jsem našel bydlení já.
             <br />
             Pokud se chcete podívat, jak vypadá ubytování na kampusu, stačí zabrousit na stránky
-            jakékoliv univerzity. Pro ty, co zajímá, jak vypadá soukromé ubytování, jsem udělal pár
-            fotek{" "}
-            <a href="Images.html" target="_blank">
-              zde
-            </a>
-            .
+            jakékoliv univerzity.
           </div>
         </article>
       )}
@@ -1034,12 +1029,7 @@ function App() {
             </a>
             , which is where I found my accommodation.
             <br />
-            For those interested in how uni accommodation looks like, just visit their website. For
-            those interested in private accommodation, I made a few photos for you{" "}
-            <a href="Images.html" target="_blank">
-              here
-            </a>
-            .
+            For those interested in how uni accommodation looks like, just visit their website.
           </div>
         </article>
       )}
